@@ -1,0 +1,15 @@
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 80%;
+    margin: auto;
+    padding: 2rem;
+    background-color: #e46161; 
+    border-radius: 10px;
+    box-shadow: 2px 3px 5px 0px rgba(0,0,0,0.75);
+    margin-bottom: 1rem;
+    
+}

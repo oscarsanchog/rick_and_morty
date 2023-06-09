@@ -1,0 +1,12 @@
+.searchInput{
+    border: 0px;
+    border-radius: 10px 0px 0px 10px;
+    height: 2rem;
+}
+
+.searchButton{
+    border: 0px;
+    border-radius: 0px 10px 10px 0px;
+    background-color: #e46161;
+    height: 2rem;
+}

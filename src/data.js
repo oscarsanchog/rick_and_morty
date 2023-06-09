@@ -1,6 +1,6 @@
 export const Rick = {
    id: 1,
-   name: 'Rick Sanchez',
+   name: 'Rick Sánchez',
    status: 'Alive',
    species: 'Human',
    gender: 'Male',
@@ -14,7 +14,7 @@ export const Rick = {
 export default [ // Esto se refiere a import characters, 
    {
       id: 1,
-      name: 'Rick Sanchez',
+      name: 'Rick Sánchez',
       status: 'Alive',
       species: 'Human',
       gender: 'Male',
